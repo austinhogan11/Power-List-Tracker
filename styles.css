@@ -1,0 +1,14 @@
+html {
+    background-color: #f1b7a9d2;
+    
+}
+
+#power-list-container {
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    margin: 0 10rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
